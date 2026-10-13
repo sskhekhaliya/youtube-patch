@@ -1,0 +1,18 @@
+# Temporary and build artifacts
+build/
+temp_workspace/
+downloads/
+tools/
+*.apk
+*.xapk
+*.jar
+*.rvp
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS artifacts
+.DS_Store
+Thumbs.db
