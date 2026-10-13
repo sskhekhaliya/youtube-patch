@@ -51,7 +51,7 @@ Create a new repository on your GitHub account (it can be **Public** or **Privat
 git add .
 git commit -m "Initial commit: Android YouTube Auto-Patcher"
 git branch -M main
-git remote add origin https://github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>.git
+git remote add origin https://github.com/sskhekhaliya/youtube-patch.git
 git push -u origin main
 ```
 
@@ -83,7 +83,7 @@ git push -u origin main
    👉 [Download Obtainium APK](https://github.com/ImranR98/Obtainium/releases/latest)
 2. Open Obtainium and tap **Add App**.
 3. In the **App Source URL** field, enter your GitHub repository link:
-   `https://github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>`
+   `https://github.com/sskhekhaliya/youtube-patch`
 4. Tap **Add**. Obtainium will automatically pull your latest patched YouTube APK and offer to install it.
 
 ---
